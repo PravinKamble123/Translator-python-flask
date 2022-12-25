@@ -11,7 +11,7 @@ variables:
   azureServiceConnectionId: 'de333d65-754d-49f9-8237-31ff25943bde'
 
   # Web app name
-  webAppName: ''
+  webAppName: 'Translator-service'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
